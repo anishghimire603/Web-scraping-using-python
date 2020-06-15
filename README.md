@@ -3,7 +3,7 @@ How to scrap a web using Html and Python tasty libraries like Requests, Beautifu
 1st- Learned how to install python3 and its library with pip. 
 2nd- flow of web scrapping like:
 - Requests
-- Checks Response
+- Check Responses
 - parsing infromations
 - Filtering 
 - Downloading
