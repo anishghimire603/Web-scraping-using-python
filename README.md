@@ -1,6 +1,6 @@
 # Web-scraping-using-python
 How to scrap a web using Html and Python tasty libraries like Requests, Beautiful Soup, Scrapy.
-1st- Learned how to install python3 and its library with pip. 
+1st- Learned how to install python3, its library with pip and jupyter notebook. 
 2nd- flow of web scrapping like:
 - Requests
 - Check Responses
