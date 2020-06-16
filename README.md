@@ -11,8 +11,8 @@ How to scrap a web using Html and Python tasty libraries like Requests, Beautifu
 - Generating CSV File of Scraped data.
 
 # Projects
-1. learned from Scraping own web paragraph.
-2. scraped ICC test match team raanking table.
+1. Learned from Scraping own Web paragraph.
+2. Scraped ICC test match team raanking table.
 3. Movie Poster Scraper
 4. Parsing Stackoverflow Result.
 5. Generating CSV/Excel format file of the scraped data.
